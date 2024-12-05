@@ -27,6 +27,12 @@ Tile Breaker is a classic brick breaker game developed using the Pygame library 
      pip install pygame
      ```
 
+## ScreenShots:
+
+![alt text](main_menu.png)
+![alt text](gameplay.png)
+![alt text](game_over.png)
+
 ## How to Play
 
 1. **Clone the repository:**
